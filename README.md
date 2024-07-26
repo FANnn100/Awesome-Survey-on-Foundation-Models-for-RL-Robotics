@@ -1,4 +1,4 @@
-#![image](https://github.com/user-attachments/assets/e351b406-1869-4bcb-8b2d-f9d63b93f1f2)# Awesome-Survey-on-Foundation-Models-for-RL-Robotics
+# Awesome-Survey-on-Foundation-Models-for-RL-Robotics
 
 ## Paper Taxonomy
 | Index | Paper                                                        | Year | Conference/Journal | Application                                                  | Type of Generative/Foundational Model                        | The role that GM/FM plays in robotics/RL                     | Problem                                                      |
