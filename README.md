@@ -221,3 +221,5 @@
 ｜ 208 ｜ Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning ｜ 2024 ｜ ICLR ｜ 需要加到planning中 ｜
 
 ｜ 209 ｜ Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment ｜ 2024 ｜ ICML ｜
+
+｜ 210 ｜ Self-Play Preference Optimization for Language Model Alignment ｜ 2024 ｜ICML ｜
