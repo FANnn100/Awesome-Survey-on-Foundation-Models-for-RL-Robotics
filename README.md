@@ -219,3 +219,5 @@
 | 207 | A Generative Model for Text Control in Minecraft | 2024 | ICML |
 
 ｜ 208 ｜ Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning ｜ 2024 ｜ ICLR ｜ 需要加到planning中 ｜
+
+｜ 209 ｜ Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment ｜ 2024 ｜ ICML ｜
