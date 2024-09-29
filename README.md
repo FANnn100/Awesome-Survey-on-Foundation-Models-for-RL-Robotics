@@ -213,3 +213,9 @@
 |204| Multimodal foundation world models for generalist embodied agents | 2024 | ICML |
 
 | 205 | Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem | 2024 | ICML |
+
+| 206 | MJ-BENCH: Is Your Multimodal Reward Model Really a Good Judge? | 2024 | ICML |
+
+| 207 | A Generative Model for Text Control in Minecraft | 2024 | ICML |
+
+｜ 208 ｜ Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning ｜ 2024 ｜ ICLR ｜ 需要加到planning中 ｜
