@@ -28,23 +28,23 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 ## Exploration
 | Title                              | Venue                | Date | Code |
 |------------------------------------|----------------------|------|------|
-| RoboEXP: LMM                       | arxiv                | 2024 | -    |
-| IGE-LLMs: LLM                      | ICRA                 | 2024 | -    |
-| ELLM: LLM                          | ICML                 | 2023 | -    |
-| Motif: LLM                         | arxiv                | 2023 | -    |
+| RoboEXP: [RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation](https://arxiv.org/abs/2402.15487)                       | arxiv                | 2024 | -    |
+| IGE-LLMs: [Intrinsic Language-Guided Exploration for Complex Long-Horizon Robotic Manipulation Tasks](https://arxiv.org/abs/2309.16347)                     | ICRA                 | 2024 | -    |
+| ELLM: [Guiding pretraining in reinforcement learning with large language models](https://arxiv.org/abs/2302.06692)                         | ICML                 | 2023 | -    |
+| Motif: [Motif: Intrinsic motivation from artificial intelligence feedback](https://arxiv.org/abs/2310.00166)                        | arxiv                | 2023 | -    |
 
 
 
 ## Reasoning
 | Title                              | Venue                | Date | Code |
 |------------------------------------|----------------------|------|------|
-| HAZARD: LLM                        | ICLR                 | 2024 | -    |
-| PR2L: VLM                          | arxiv                | 2024 | -    |
-| CAPE: LVM                          | ICRA                 | 2024 | -    |
-| SayCanPay: LLM                     | AAAI                 | 2024 | -    |
-| MASE: LLM                          | ICRA                 | 2024 | -    |
-| FoMo: LVM & LLM                    | NeurIPS Workshop     | 2023 | -    |
-| Language to Rewards: LLM          | CoRL                 | 2023 | -    |
+| HAZARD: [HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments](https://arxiv.org/abs/2401.12975)                        | ICLR                 | 2024 | -    |
+| PR2L: [Vision-language models provide promptable representations for reinforcement learning](https://arxiv.org/abs/2402.02651)                           | arxiv                | 2024 | -    |
+| CAPE: [Cape: Corrective actions from precondition errors using large language models](https://arxiv.org/abs/2211.09935)                          | ICRA                 | 2024 | -    |
+| SayCanPay: [SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge](https://arxiv.org/abs/2308.12682)                   | AAAI                 | 2024 | -    |
+| MASE: [Multi-agent strategy explanations for human-robot collaboration](https://arxiv.org/abs/2311.11955)                        | ICRA                 | 2024 | -    |
+| FoMo: [FoMo Rewards: Can we cast foundation models as reward functions?](https://arxiv.org/abs/2312.03881)                   | NeurIPS Workshop     | 2023 | -    |
+| Language to Rewards: [Language to rewards for robotic skill synthesis](https://arxiv.org/abs/2306.08647)         | CoRL                 | 2023 | -    |
 
 
 
