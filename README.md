@@ -1,7 +1,7 @@
 # Awesome-Survey-on-Foundation-Models-for-RL-Robotics
-
-## Paper Taxonomy
 This is the official repository of "Unifying Modern AI with Robotics: Survey on MDPs with Diffusion and Foundation Models".
+## Paper Taxonomy
+
 
 | Index | Paper                                                        | Year | Conference/Journal | Application                                                  | Type of Generative/Foundational Model                        | The role that GM/FM plays in robotics/RL                     | Problem                                                      |
 | ----- | ------------------------------------------------------------ | ---- | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
