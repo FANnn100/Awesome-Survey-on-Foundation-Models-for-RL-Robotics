@@ -6,6 +6,11 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 |------------------------------------------------------------------------|------------------------|------|------|
 | [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093)    | arxiv    | 2024 | [Web](https://github.com/yueen-ma/awesome-vla)|
 | [Large Multimodal Agents: A Survey](https://arxiv.org/abs/2402.15116)    | arxiv    | 2024 | [Web](https://github.com/jun0wanan/awesome-large-multimodal-agents)|
+| [Agent AI: Surveying the Horizons of Multimodal Interaction](https://arxiv.org/abs/2401.03568)    | arxiv    | 2024 | - |
+| [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/abs/2407.06886)    | arxiv    | 2024 | [Web](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) |
+| [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782)    | arxiv    | 2023 | [Web](https://robotics-fm-survey.github.io/) |
+
+
 
 
 ## Planning
