@@ -17,13 +17,13 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | CoELA: [Building Cooperative Embodied Agents Modularly with Large Language Models](https://arxiv.org/abs/2307.02485)                                                          | ICLR                   | 2023 | -    |
 | GD: [Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents](https://arxiv.org/abs/2303.00855)                                                              | NeurIPS                | 2023 | -    |
 | UNREST: [Uncertainty-Aware Decision Transformer for Stochastic Driving Environments](https://arxiv.org/abs/2309.16397)                                                  | CoRL                   | 2023 | -    |
-| Text2Motion: LLM                                                     | Autonomous Robots      | 2023 | -    |
-| GLAM: LLM                                                            | ICML                   | 2023 | -    |
-| UniSim: VLM                                                          | ICLR                   | 2023 | -    |
-| Retroformer: LLM                                                     | ICLR                   | 2023 | -    |
-| ALFRED: LLM                                                          | NeurIPS                | 2023 | -    |
-| SayCan: LLM                                                          | CoRL                   | 2022 | -    |
-| Inner Monologue: LLM                                                 | CoRL                   | 2022 | -    |
+| Text2Motion: [Text2motion: From natural language instructions to feasible plans](https://arxiv.org/abs/2303.12153)                                                     | Autonomous Robots      | 2023 | -    |
+| GLAM: [Grounding large language models in interactive environments with online reinforcement learning](https://arxiv.org/abs/2302.02662)                                                | ICML                   | 2023 | -    |
+| UniSim: [Learning interactive real-world simulators](https://arxiv.org/abs/2310.06114)                                                          | ICLR                   | 2023 | -    |
+| Retroformer: [Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization](https://arxiv.org/abs/2308.02151)                                                     | ICLR                   | 2023 | -    |
+| ALFRED: [Egocentric planning for scalable embodied task achievement](https://arxiv.org/abs/2306.01295)                                                         | NeurIPS                | 2023 | -    |
+| SayCan: [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691)                                                          | CoRL                   | 2022 | -    |
+| Inner Monologue: [Inner Monologue: Embodied Reasoning through Planning with Language Models](https://arxiv.org/abs/2207.05608)                                              | CoRL                   | 2022 | -    |
 
 ## Exploration
 | Title                              | Venue                | Date | Code |
