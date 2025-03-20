@@ -2,6 +2,11 @@
 This is the official repository of "Unifying Modern AI with Robotics: Survey on MDPs with Diffusion and Foundation Models".
 
 ## Relevant Surveys
+| Title                                                                 | Venue                  | Date | Source |
+|------------------------------------------------------------------------|------------------------|------|------|
+| [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093)    | arxiv    | 2024 | [Web](https://github.com/yueen-ma/awesome-vla)|
+| [Large Multimodal Agents: A Survey](https://arxiv.org/abs/2402.15116)    | arxiv    | 2024 | [Web](https://github.com/jun0wanan/awesome-large-multimodal-agents)|
+
 
 ## Planning
 
