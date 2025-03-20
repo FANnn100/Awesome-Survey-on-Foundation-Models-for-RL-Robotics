@@ -1,7 +1,7 @@
 # Awesome-Survey-on-Foundation-Models-for-RL-Robotics
 
 ## Paper Taxonomy
-This is the official repository of "Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models"
+This is the official repository of "Unifying Modern AI with Robotics: Survey on MDPs with Diffusion and Foundation Models".
 
 | Index | Paper                                                        | Year | Conference/Journal | Application                                                  | Type of Generative/Foundational Model                        | The role that GM/FM plays in robotics/RL                     | Problem                                                      |
 | ----- | ------------------------------------------------------------ | ---- | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
