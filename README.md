@@ -10,7 +10,7 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/abs/2407.06886)    | arxiv    | 2024 | [Web](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) |
 | [A survey on large language model based autonomous agents](https://arxiv.org/abs/2308.11432)    | Front. Comput. Sci   | 2024 | [Web](https://github.com/Paitesanshi/LLM-Agent-Survey) |
 | [A Survey on Robotics with Foundation Models: toward Embodied AI](https://arxiv.org/abs/2402.02385)    | arxiv   | 2024 | - |
-
+| [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716)    | arxiv   | 2024 | - |
 | [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782)    | arxiv    | 2023 | [Web](https://robotics-fm-survey.github.io/) |
 
 
