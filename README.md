@@ -8,8 +8,8 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | Title                                                                 | Venue                  | Date | Source |
 |------------------------------------------------------------------------|------------------------|------|------|
 | PSL: [Plan-seq-learn: Language model guided rl for solving long horizon robotics tasks](https://arxiv.org/abs/2405.01534)                                                            | ICLR-LLMAgents         | 2024 | -    |
-| TWOSOME: LLM                                                         | ICLR                   | 2024 | -    |
-| POLIFORMER: Transformer                                              | CoRL                   | 2024 | -    |
+| TWOSOME: [True knowledge comes from practice: Aligning llms with embodied environments via reinforcement learning](https://arxiv.org/abs/2401.14151)                                                        | ICLR                   | 2024 | -    |
+| POLIFORMER: [PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators](https://arxiv.org/abs/2406.20083)                                              | CoRL                   | 2024 | -    |
 | LLM-MCTS: LLM                                                        | NeurIPS                | 2024 | -    |
 | Lang2LTL-2: LLM & VLM                                                | CoRL Workshop          | 2024 | -    |
 | LGMCTS: LLM                                                          | IROS                   | 2023 | -    |
