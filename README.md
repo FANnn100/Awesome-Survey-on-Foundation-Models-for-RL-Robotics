@@ -7,7 +7,7 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 
 | Title                                                                 | Venue                  | Date | Source |
 |------------------------------------------------------------------------|------------------------|------|------|
-| PSL: LLM                                                             | ICLR-LLMAgents         | 2024 | -    |
+| PSL: [Plan-seq-learn: Language model guided rl for solving long horizon robotics tasks](https://arxiv.org/abs/2405.01534)                                                            | ICLR-LLMAgents         | 2024 | -    |
 | TWOSOME: LLM                                                         | ICLR                   | 2024 | -    |
 | POLIFORMER: Transformer                                              | CoRL                   | 2024 | -    |
 | LLM-MCTS: LLM                                                        | NeurIPS                | 2024 | -    |
