@@ -26,7 +26,7 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | Inner Monologue: [Inner Monologue: Embodied Reasoning through Planning with Language Models](https://arxiv.org/abs/2207.05608)                                              | CoRL                   | 2022 |[Web](https://innermonologue.github.io/)|
 
 ## Exploration
-| Title                              | Venue                | Date | Code |
+| Title                              | Venue                | Date | Source |
 |------------------------------------|----------------------|------|------|
 | RoboEXP: [RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation](https://arxiv.org/abs/2402.15487)                       | arxiv                | 2024 |[Web](https://jianghanxiao.github.io/roboexp-web/)|
 | IGE-LLMs: [Intrinsic Language-Guided Exploration for Complex Long-Horizon Robotic Manipulation Tasks](https://arxiv.org/abs/2309.16347)                     | ICRA                 | 2024 | -    |
@@ -36,7 +36,7 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 
 
 ## Reasoning
-| Title                              | Venue                | Date | Code |
+| Title                              | Venue                | Date | Source  |
 |------------------------------------|----------------------|------|------|
 | HAZARD: [HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments](https://arxiv.org/abs/2401.12975)                        | ICLR                 | 2024 |[Code](https://github.com/UMass-Embodied-AGI/HAZARD)|
 | PR2L: [Vision-language models provide promptable representations for reinforcement learning](https://arxiv.org/abs/2402.02651)                           | arxiv                | 2024 |[Web](https://pr2l.github.io/)|
