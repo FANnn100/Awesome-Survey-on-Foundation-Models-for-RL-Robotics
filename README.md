@@ -1,5 +1,6 @@
 # Awesome-Survey-on-Foundation-Models-for-RL-Robotics
 This is the official repository of "Unifying Modern AI with Robotics: Survey on MDPs with Diffusion and Foundation Models".
+<img width="1073" alt="image" src="https://github.com/user-attachments/assets/6cda6ff4-c451-4481-a18d-7dc30b81e19a" />
 
 ## Relevant Surveys
 | Title                                                                 | Venue                  | Date | Source |
