@@ -67,6 +67,7 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | Diffuser: [Planning with diffusion for flexible behavior synthesis](https://arxiv.org/pdf/2205.09991)                                                            | ICML        | 2022 | [Code](https://diffusion-planning.github.io/)|
 | SayCan: [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691)                                                          | CoRL                   | 2022 | [Web](say-can.github.io)|
 | Inner Monologue: [Inner Monologue: Embodied Reasoning through Planning with Language Models](https://arxiv.org/abs/2207.05608)                                              | CoRL                   | 2022 |[Web](https://innermonologue.github.io/)|
+| LLaRA: [LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](https://arxiv.org/abs/2406.20095) | ICLR | 2025 | [Code](https://github.com/LostXine/LLaRA)|
 
 ## Perception
 | Title                                                                 | Venue                  | Date | Source |
@@ -89,7 +90,13 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | CONPE: [Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ad72633e034990a97e878fc2fc100afb-Abstract-Conference.html) | NeurIPS | 2024 | - |
 | CLIP-Adapter: [Clip-adapter: Better vision-language models with feature adapters](https://link.springer.com/article/10.1007/s11263-023-01891-x) | IJCV | 2024 | [Code](https://github.com/gaopengcuhk/CLIP-Adapter) | 
 | PAC: [Offline actor-critic reinforcement learning scales to large models](https://arxiv.org/abs/2402.05546) | ICML | 2024 | - |
-| LLM-POP: [Interactive Planning Using Large Language Models for Partially Observable Robotic Tasks](https://ieeexplore.ieee.org/abstract/document/10610981) | 
+| LLM-POP: [Interactive Planning Using Large Language Models for Partially Observable Robotic Tasks](https://ieeexplore.ieee.org/abstract/document/10610981) | ICRA | 2024 | - |
+| ImagineNav: [ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination](https://arxiv.org/abs/2410.09874) | ICLR | 2025 | - |
+| LAPA: [Latent action pretraining from videos](https://arxiv.org/abs/2410.11758) | ICLR | 2025 | [Web](https://latentactionpretraining.github.io/) |
+| TraceVLA: [TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies](https://arxiv.org/pdf/2412.10345) | ICLR | 2025 | - |
+| HAMSTER: [HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation](https://arxiv.org/abs/2502.05485v3) | ICLR | 2025 | [Web](https://hamster-robot.github.io/) |
+| X-Fi: [X-FI: A Modality-Invariant Foundation Model for Multimodal Human Sensing](https://arxiv.org/abs/2410.10167) | ICLR | 2025 | [Code](https://xyanchen.github.io/X-Fi/) |
+| TinyVLA: [TinyVLA: Toward Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/10900471) | RA-L | 2025 | [Web](https://tiny-vla.github.io/) |
 
 ## Exploration
 | Title                              | Venue                | Date | Source |
