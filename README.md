@@ -22,6 +22,14 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 
 | Title                                                                 | Venue                  | Date | Source |
 |------------------------------------------------------------------------|------------------------|------|------|
+| DPPO: [Diffusion Policy Policy Optimization](https://openreview.net/pdf?id=mEpqHvbD2h)                              | ICLR                   | 2025 |[Code](https://diffusion-ppo.github.io/)|
+| DART: [A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control](https://openreview.net/pdf?id=XNA3Mnnbvb)                              | ICLR                   | 2025 |[Code](https://zkf1997.github.io/DART/)|
+| SafeDiffuser: [SafeDiffuser: Safe Planning with Diffusion Probabilistic Models](https://openreview.net/forum?id=ig2wk7kK9J)                              | ICLR                   | 2025 |[Code](https://safediffuser.github.io/safediffuser/)|
+| SMILING: [Diffusing States and Matching Scores: A New Framework for Imitation Learning](https://openreview.net/pdf?id=kWRKNDU6uN)                              | ICLR                   | 2025 |[Code](https://github.com/ziqian2000/SMILING)|
+| DV: [What Makes a Good Diffusion Planner for Decision Making?](https://openreview.net/pdf?id=7BQkXXM8Fy)                              | ICLR                   | 2025 |[Code](https://github.com/Josh00-Lu/DiffusionVeteran)|
+| Diffusion Planner: [Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](https://openreview.net/pdf?id=wM2sfVgMDH)                              | ICLR                   | 2025 |[Code](https://zhengyinan-air.github.io/Diffusion-Planner/)|
+| MMD: [Multi-Robot Motion Planning with Diffusion Models](https://openreview.net/pdf?id=AUCYptvAf3)                              | ICLR                   | 2025 |[Code](https://multi-robot-diffusion.github.io/)|
+| Instant Policy: [Instant Policy: In-Context Imitation Learning via Graph Diffusion](https://openreview.net/pdf?id=je3GZissZc)                              | ICLR                   | 2025 |[Code](https://www.robot-learning.uk/instant-policy)|
 | Diffusion-ES: [Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following](https://arxiv.org/pdf/2403.10794)                              | CVPR                   | 2024 |[Code](https://github.com/bhyang/diffusion-es)|
 | AlignDiff: [AlignDiff: Aligning Diverse Human Preferences via Behavior-customisable Diffusion Model](https://arxiv.org/pdf/2310.02054) | ICLR | 2024 | [code](https://aligndiff.github.io/) |
 | LDCQ: [Reasoning with Latent Diffusion in Offline Reinforcement Learning](https://openreview.net/pdf?id=tGQirjzddO) | ICLR | 2024 | [code](https://github.com/ldcq/ldcq) |
@@ -123,6 +131,7 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 ## Others
 | Title                              | Venue                | Date | Source  |
 |------------------------------------|----------------------|------|------|
+| MADiTS: [Efficient Multi-agent Offline Coordination via Diffusion-based Trajectory Stitching](https://openreview.net/pdf?id=EpnZEzYDUT)                        | ICLR                 | 2025 | [code]() |
 | RPA: [Following natural language instructions for household tasks with landmark guided search and reinforced pose adjustment](https://ieeexplore.ieee.org/abstract/document/9785410)                        | RAL                 | 2022 | - |
 | Language-centric Agents: [Towards a unified agent with foundation models](https://arxiv.org/abs/2307.09668) | ICLR workshop | 2023 | - |
 | AdA: [Human-timescale adaptation in an open-ended task space](https://arxiv.org/abs/2301.07608) | ICML | 2023 | - |
