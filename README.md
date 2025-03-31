@@ -30,6 +30,8 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | Diffusion Planner: [Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](https://openreview.net/pdf?id=wM2sfVgMDH)                              | ICLR                   | 2025 |[Code](https://zhengyinan-air.github.io/Diffusion-Planner/)|
 | MMD: [Multi-Robot Motion Planning with Diffusion Models](https://openreview.net/pdf?id=AUCYptvAf3)                              | ICLR                   | 2025 |[Code](https://multi-robot-diffusion.github.io/)|
 | Instant Policy: [Instant Policy: In-Context Imitation Learning via Graph Diffusion](https://openreview.net/pdf?id=je3GZissZc)                              | ICLR                   | 2025 |[Code](https://www.robot-learning.uk/instant-policy)|
+| LCCS: [Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation](https://arxiv.org/abs/2412.10675)                    | LM4Plan @ AAAI   | 2025 | [Code](https://anonymous.4open.science/r/official-misconcept-lm-plan-gen-D34B/README.md) |
+
 | Diffusion-ES: [Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following](https://arxiv.org/pdf/2403.10794)                              | CVPR                   | 2024 |[Code](https://github.com/bhyang/diffusion-es)|
 | AlignDiff: [AlignDiff: Aligning Diverse Human Preferences via Behavior-customisable Diffusion Model](https://arxiv.org/pdf/2310.02054) | ICLR | 2024 | [code](https://aligndiff.github.io/) |
 | LDCQ: [Reasoning with Latent Diffusion in Offline Reinforcement Learning](https://openreview.net/pdf?id=tGQirjzddO) | ICLR | 2024 | [code](https://github.com/ldcq/ldcq) |
@@ -49,6 +51,7 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | POLIFORMER: [PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators](https://arxiv.org/abs/2406.20083)                                              | CoRL                   | 2024 | [Code](https://github.com/allenai/poliformer) |
 | LLM-MCTS: [Large Language Models as Commonsense Knowledge for Large-Scale Task Planning](https://arxiv.org/abs/2305.14078)                                                       | NeurIPS                | 2024 | [Code](https://github.com/1989Ryan/llm-mcts) |
 | Lang2LTL-2: [Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models](https://semrob.github.io/docs/rss_semrob2024_cr_paper23.pdf)                    | CoRL Workshop          | 2024 | [Code](https://github.com/h2r/Lang2LTL-2), [Data](https://drive.google.com/drive/folders/1gWomkuVqxLU01ftzF34bEacJBeUwBMOf) |
+
 | CADENCE: [Diffusion models for multi-target adversarial tracking](https://arxiv.org/pdf/2307.06244) | MRS | 2023 |[code]() |
 | BESO: [Goal-Conditioned Imitation Learning using Score-based Diffusion Policies](https://arxiv.org/pdf/2304.02532) | RSS | 2023 | [Code](https://intuitive-robots.github.io/beso-website/) |
 | Diffusion-Policy: [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/pdf/2303.04137) | RSS | 2023 | [Code](https://diffusion-policy.cs.columbia.edu/) |
