@@ -31,7 +31,6 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | MMD: [Multi-Robot Motion Planning with Diffusion Models](https://openreview.net/pdf?id=AUCYptvAf3)                              | ICLR                   | 2025 |[Code](https://multi-robot-diffusion.github.io/)|
 | Instant Policy: [Instant Policy: In-Context Imitation Learning via Graph Diffusion](https://openreview.net/pdf?id=je3GZissZc)                              | ICLR                   | 2025 |[Code](https://www.robot-learning.uk/instant-policy)|
 | LCCS: [Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation](https://arxiv.org/abs/2412.10675)                    | LM4Plan @ AAAI   | 2025 | [Code](https://anonymous.4open.science/r/official-misconcept-lm-plan-gen-D34B/README.md) |
-
 | Diffusion-ES: [Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following](https://arxiv.org/pdf/2403.10794)                              | CVPR                   | 2024 |[Code](https://github.com/bhyang/diffusion-es)|
 | AlignDiff: [AlignDiff: Aligning Diverse Human Preferences via Behavior-customisable Diffusion Model](https://arxiv.org/pdf/2310.02054) | ICLR | 2024 | [code](https://aligndiff.github.io/) |
 | LDCQ: [Reasoning with Latent Diffusion in Offline Reinforcement Learning](https://openreview.net/pdf?id=tGQirjzddO) | ICLR | 2024 | [code](https://github.com/ldcq/ldcq) |
