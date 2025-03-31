@@ -108,6 +108,7 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | X-Fi: [X-FI: A Modality-Invariant Foundation Model for Multimodal Human Sensing](https://arxiv.org/abs/2410.10167) | ICLR | 2025 | [Code](https://xyanchen.github.io/X-Fi/) |
 | TinyVLA: [TinyVLA: Toward Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/10900471) | RA-L | 2025 | [Web](https://tiny-vla.github.io/) |
 | HFPC: [An Evaluation Framework for Product Images Background Inpainting based on Human Feedback and Product Consistency](https://arxiv.org/abs/2412.17504)                    |  AAAI   | 2025 | [Code and Dataset](https://github.com/created-Bi/HFPC) |
+| GSP: [Grasp, See, and Place: Efficient Unknown Object Rearrangement with Policy Structure Prior](https://arxiv.org/pdf/2402.15402)                    |  TRO   | 2025 | [Web](https://xukechun.github.io/papers/GSP) |
 
 ## Exploration
 | Title                              | Venue                | Date | Source |
