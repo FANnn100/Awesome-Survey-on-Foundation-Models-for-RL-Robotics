@@ -30,6 +30,7 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | Diffusion Planner: [Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](https://openreview.net/pdf?id=wM2sfVgMDH)                              | ICLR                   | 2025 |[Code](https://zhengyinan-air.github.io/Diffusion-Planner/)|
 | MMD: [Multi-Robot Motion Planning with Diffusion Models](https://openreview.net/pdf?id=AUCYptvAf3)                              | ICLR                   | 2025 |[Code](https://multi-robot-diffusion.github.io/)|
 | Instant Policy: [Instant Policy: In-Context Imitation Learning via Graph Diffusion](https://openreview.net/pdf?id=je3GZissZc)                              | ICLR                   | 2025 |[Code](https://www.robot-learning.uk/instant-policy)|
+| LLaRA: [LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](https://arxiv.org/abs/2406.20095) | ICLR | 2025 | [Code](https://github.com/LostXine/LLaRA)|
 | LCCS: [Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation](https://arxiv.org/abs/2412.10675)                    | LM4Plan @ AAAI   | 2025 | [Code](https://anonymous.4open.science/r/official-misconcept-lm-plan-gen-D34B/README.md) |
 | ROSKA: [Efficient Language-instructed Skill Acquisition via Reward-Policy Co-Evolution](https://arxiv.org/pdf/2412.13492)                    |  AAAI   | 2025 | [Code](https://github.com/NextMyLove/ROSKA) |
 | Diffusion-ES: [Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following](https://arxiv.org/pdf/2403.10794)                              | CVPR                   | 2024 |[Code](https://github.com/bhyang/diffusion-es)|
@@ -77,7 +78,7 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | Diffuser: [Planning with diffusion for flexible behavior synthesis](https://arxiv.org/pdf/2205.09991)                                                            | ICML        | 2022 | [Code](https://diffusion-planning.github.io/)|
 | SayCan: [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691)                                                          | CoRL                   | 2022 | [Web](say-can.github.io)|
 | Inner Monologue: [Inner Monologue: Embodied Reasoning through Planning with Language Models](https://arxiv.org/abs/2207.05608)                                              | CoRL                   | 2022 |[Web](https://innermonologue.github.io/)|
-| LLaRA: [LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](https://arxiv.org/abs/2406.20095) | ICLR | 2025 | [Code](https://github.com/LostXine/LLaRA)|
+
 
 ## Perception
 | Title                                                                 | Venue                  | Date | Source |
