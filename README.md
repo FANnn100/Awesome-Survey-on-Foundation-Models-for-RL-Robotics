@@ -50,7 +50,6 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | POLIFORMER: [PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators](https://arxiv.org/abs/2406.20083)                                              | CoRL                   | 2024 | [Code](https://github.com/allenai/poliformer) |
 | LLM-MCTS: [Large Language Models as Commonsense Knowledge for Large-Scale Task Planning](https://arxiv.org/abs/2305.14078)                                                       | NeurIPS                | 2024 | [Code](https://github.com/1989Ryan/llm-mcts) |
 | Lang2LTL-2: [Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models](https://semrob.github.io/docs/rss_semrob2024_cr_paper23.pdf)                    | CoRL Workshop          | 2024 | [Code](https://github.com/h2r/Lang2LTL-2), [Data](https://drive.google.com/drive/folders/1gWomkuVqxLU01ftzF34bEacJBeUwBMOf) |
-
 | CADENCE: [Diffusion models for multi-target adversarial tracking](https://arxiv.org/pdf/2307.06244) | MRS | 2023 |[code]() |
 | BESO: [Goal-Conditioned Imitation Learning using Score-based Diffusion Policies](https://arxiv.org/pdf/2304.02532) | RSS | 2023 | [Code](https://intuitive-robots.github.io/beso-website/) |
 | Diffusion-Policy: [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/pdf/2303.04137) | RSS | 2023 | [Code](https://diffusion-policy.cs.columbia.edu/) |
