@@ -31,7 +31,6 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | MMD: [Multi-Robot Motion Planning with Diffusion Models](https://openreview.net/pdf?id=AUCYptvAf3)                              | ICLR                   | 2025 |[Code](https://multi-robot-diffusion.github.io/)|
 | Instant Policy: [Instant Policy: In-Context Imitation Learning via Graph Diffusion](https://openreview.net/pdf?id=je3GZissZc)                              | ICLR                   | 2025 |[Code](https://www.robot-learning.uk/instant-policy)|
 | LCCS: [Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation](https://arxiv.org/abs/2412.10675)                    | LM4Plan @ AAAI   | 2025 | [Code](https://anonymous.4open.science/r/official-misconcept-lm-plan-gen-D34B/README.md) |
-| HFPC: [An Evaluation Framework for Product Images Background Inpainting based on Human Feedback and Product Consistency](https://arxiv.org/abs/2412.17504)                    |  AAAI   | 2025 | [Code and Dataset](https://github.com/created-Bi/HFPC) |
 | ROSKA: [Efficient Language-instructed Skill Acquisition via Reward-Policy Co-Evolution](https://arxiv.org/pdf/2412.13492)                    |  AAAI   | 2025 | [Code](https://github.com/NextMyLove/ROSKA) |
 | Diffusion-ES: [Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following](https://arxiv.org/pdf/2403.10794)                              | CVPR                   | 2024 |[Code](https://github.com/bhyang/diffusion-es)|
 | AlignDiff: [AlignDiff: Aligning Diverse Human Preferences via Behavior-customisable Diffusion Model](https://arxiv.org/pdf/2310.02054) | ICLR | 2024 | [code](https://aligndiff.github.io/) |
@@ -108,6 +107,7 @@ This is the official repository of "Unifying Modern AI with Robotics: Survey on 
 | HAMSTER: [HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation](https://arxiv.org/abs/2502.05485v3) | ICLR | 2025 | [Web](https://hamster-robot.github.io/) |
 | X-Fi: [X-FI: A Modality-Invariant Foundation Model for Multimodal Human Sensing](https://arxiv.org/abs/2410.10167) | ICLR | 2025 | [Code](https://xyanchen.github.io/X-Fi/) |
 | TinyVLA: [TinyVLA: Toward Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/10900471) | RA-L | 2025 | [Web](https://tiny-vla.github.io/) |
+| HFPC: [An Evaluation Framework for Product Images Background Inpainting based on Human Feedback and Product Consistency](https://arxiv.org/abs/2412.17504)                    |  AAAI   | 2025 | [Code and Dataset](https://github.com/created-Bi/HFPC) |
 
 ## Exploration
 | Title                              | Venue                | Date | Source |
